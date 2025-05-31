@@ -1,0 +1,27 @@
+.za{
+    text-align: center;
+    background-color: rgb(239, 176, 116);
+}
+.btn{
+    background-color: green;
+    font-size: 25px;
+    border-radius: 50px;
+    color: white;
+    width: 300px;
+}
+div{
+    background-color: black;
+    text-align: center;
+    width: 1000px;
+    height: 1000px;
+    border-radius: 10px 10px 10px 10px; 
+    font-size: 30px;
+}
+.y1{
+    color: yellow;
+}
+.y2{
+    border-radius: 20px 20px 20px 20px;
+    width: 350px;
+    height: 25px;
+}
